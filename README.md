@@ -1,4 +1,4 @@
-# sily cats game
+# silly cats game
 
 Repositorio híbrido para migrar un prototipo HTML+JavaScript a una base escalable en Godot 4.
 
